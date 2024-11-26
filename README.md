@@ -4,6 +4,10 @@ Provides some of IV's sounds in [Unciv](https://github.com/yairm210/Unciv).
 
 ![Preview](preview.png)
 
+## See Also
+
+- [Civ IV Music](https://github.com/robloach/civ-iv-music)
+
 ## Installation
 
 1. Open Unciv
